@@ -1,0 +1,5 @@
+﻿Recetario;;;;;;
+Operación_realizar;Ingredientes;Tiempo;Utensilios de cocina;Comentarios;id_ingredientes ;id_utensilio
+Batir los huevos;Huevos;10;Tenedor y sarten;Echar aceite en la sarten;1;1
+Cachopo;Huevos, pan rallado, ternera, jamon y queso;15;Sarten;Batir los huevos, mojar la ternera en los huevos, luego pasarlos en pan rayado, introducir jamon y queso entre dos trozos de carnes y freir ;1,2,8,9 y 10;
+Sandwich vegetal;pan, lechuga, tomate, mayo, huevo;5;Ninguno;Ninguno;3,4,5,6,7;

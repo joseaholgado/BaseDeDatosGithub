@@ -1,0 +1,5 @@
+Ingresos;;;;;;
+id_N_historial_clinico;Procedencia;Fecha_ingreso;Codigo_medico;Numero_planta;Numero_cama;Observaciones
+235695851;sevilla;03/05/2020;951753;2;6;cicatriz en el ojo
+458762159;estepa;18/02/2021;546123;5;3;ojo irritado
+459632584;marbella;15/29/2021;123456;3;4;golpe en la cabeza
